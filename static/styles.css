@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; background: #f2f2f2; padding: 40px; }
+.card { background: white; padding: 20px; max-width: 520px; margin: 0 auto; border-radius: 12px; }
+select, button { margin-top: 10px; display: block; padding: 10px; }
+pre { margin-top: 14px; background: #111; color: #eee; padding: 12px; border-radius: 8px; overflow: auto; }
